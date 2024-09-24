@@ -1,6 +1,3 @@
-Here's how you can format this in **README.md** style:
-
----
 
 # CAABAC Algorithms and Mathematical Explanation
 
@@ -188,11 +185,4 @@ This README provides detailed steps and mathematical explanations for all six al
 4. **Recover Symmetric Key and Decrypt**:
    - Proceed as in Algorithm 4.
 
----
 
-## **Note**:
-Throughout these algorithms, careful attention is paid to the mathematical relationships between polynomials, bilinear pairing properties, and cryptographic hash functions. The security of the scheme relies on the hardness of the **Bilinear Diffie-Hellman (BDH)** problem and the proper implementation of cryptographic primitives.
-
----
-
-Feel free to copy this markdown and use it as a README.md file. Let me know if you need further adjustments!
